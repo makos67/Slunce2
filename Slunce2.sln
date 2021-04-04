@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Slunce2", "Slunce2.csproj", "{070C9AEE-8951-4417-909B-165E7610F27F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{070C9AEE-8951-4417-909B-165E7610F27F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{070C9AEE-8951-4417-909B-165E7610F27F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{070C9AEE-8951-4417-909B-165E7610F27F}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{070C9AEE-8951-4417-909B-165E7610F27F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{070C9AEE-8951-4417-909B-165E7610F27F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{070C9AEE-8951-4417-909B-165E7610F27F}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F88C903-3032-410F-884E-5D0BE76ECEF6}
+	EndGlobalSection
+EndGlobal
